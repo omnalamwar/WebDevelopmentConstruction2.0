@@ -1983,3 +1983,12 @@ body.app_version .app_iphone_01 img {
 #footer-widgets .widget.widget_socials {
     margin-top: 25px;
 }
+
+.btn-projects{
+    background-color: #ffffff;
+    border: 3px solid black;
+    border-radius: 40px;
+    padding: 13px 40px;
+    font-size: 18px;
+    color: #000000;
+}
